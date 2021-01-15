@@ -13,7 +13,109 @@ Often times,
 
 3. Database Files: 
 
-4. WordPress:
+4. WordPress: 
+
+5. Log Files:
+
+6. Backup and Old Files:
+
+7. Login Pages:
+
+8 SQL Errors:
+
+9. Apache Config Files:
+
+10. Robots.txt File:
+
+11. DomainEye:
+
+12. Publicly Exposed Documents:
+
+13. phpinfo():
+
+14. Finding Backdoors:
+
+15. Install/Setup Files:
+
+16. Open Redirects:
+
+17. Apache Struts RCE:
+
+18. 3rd Party Exposure:
+
+19. Check Security Headers:
+
+20. GitLab:
+
+21. Find Pastebin Entries:
+
+22. Employees on LINKEDIN:
+
+23. .HTACCESS / Sensitive Files:
+
+24. Find Subdomains:
+
+25: Find Sub-Subdomains:
+
+26: Find WordPress related expsoure:
+
+27: BitBucket & Atlassian:
+
+28: PassiveTotal:
+
+29: Stackoverflow:
+
+30: Find WordPress related expsore using Wayback Machine:
+
+31: GitHub:
+
+32: OpenBugBounty:
+
+33. Reddit:
+
+34. CrossDomain.xml:
+
+35. ThreatCrowd:
+
+36. .git Folder:
+
+37. YouTube:
+
+38. Digital Ocean Spaces:
+
+39. .SWF File (Google):
+
+40. .SWF File (Yandex):
+
+41. .SWF File (Wayback Machine):
+
+42. WayBack Machine:
+
+43. Reverse IP Lookup:
+
+44. Traefik:
+
+45. Cloud Storage and Buckets:
+
+46. s3 Buckets:
+
+47. PublicWWW:
+
+48. Censys (IPv4, Domains & Certs):
+
+49. Shodan:
+
+50. SharePoint RCE: 
+
+51. API Endpoints:
+
+52. Gist Searches:
+
+53. CT Logs:
+
+54. Password Leak:
+
+55. What CMS:
 
 
 
