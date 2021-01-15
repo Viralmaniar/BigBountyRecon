@@ -7,6 +7,15 @@ Often times,
 
 # Techniques
 
+1. Directory Listing: Finding open directories using Google Dork on your target organisation helps one to understand the directory structure on the webserver. It may reveal sensitive information or it may lead to information disclosure.
+
+2. Configuration Files: Often times configuration files contains sensitive information such as hardcoded passwords, sensitive drive locations or API tokens which can help you gain privilege access to the internal resources.
+
+3. Database Files: 
+
+4. WordPress:
+
+
 
 # Dorking operators across Google, DuckDuckGo, Yahoo and Bing
 
