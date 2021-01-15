@@ -21,7 +21,7 @@ Often times,
 
 7. Login Pages:
 
-8 SQL Errors:
+8. SQL Errors:
 
 9. Apache Config Files:
 
