@@ -1,7 +1,5 @@
 # BigBountyRecon
-BigBountyRecon tool utilises 58 different techniques to expediate the process of initial reconnaissance on the target organisation. Reconnaissance is the most important step in any penetration testing or a bug hunting process. It provides an attacker some priliminary knowledge on a target organisation. Furthermore, it will be useful to gain insights into controls in place as well as security matuarity of a target organisation.
-
-Often times, 
+BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expediate the process of initial reconnaissance on the target organisation. Reconnaissance is the most important step in any penetration testing or a bug hunting process. It provides an attacker some priliminary knowledge on a target organisation. Furthermore, it will be useful to gain insights into controls in place as well as security matuarity of a target organisation. Looking into this low hanging fruits you will have some estimations on the security capabilities on your target organisation.
 
 ![image](https://user-images.githubusercontent.com/3501170/104112108-d9145c00-533e-11eb-85be-cb1d33fc9362.png)
 
@@ -13,7 +11,7 @@ Often times,
 
 3. Database Files: 
 
-4. WordPress: 
+4. WordPress: WordPress is an open source CMS written in PHP. WordPess has thousands of plugins to build, customise and enhance the websites. There are numerous vulnerabilities in these plugins. Finding WordPress related 
 
 5. Log Files:
 
