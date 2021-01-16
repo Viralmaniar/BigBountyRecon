@@ -117,6 +117,9 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 55. What CMS:
 
+# Screenshots
+
+# How to use this tool?
 
 
 # Dorking operators across Google, DuckDuckGo, Yahoo and Bing
