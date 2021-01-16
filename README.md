@@ -41,29 +41,29 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 17. Apache Struts RCE: Successfully exploiting an RCE vulnerability could allow the attacker to run arbitrary programs. Here, we are looking for files with extensions of ".action" or ".do".
 
-18. 3rd Party Exposure: 
+18. 3rd Party Exposure: Here we are looking for exposure of information on third party sites such as Codebeautify, Codeshare and Codepen.
 
-19. Check Security Headers:
+19. Check Security Headers: Identify quickly if the target site is using security related headers in the server response.
 
-20. GitLab:
+20. GitLab: Quickly look for sensitive information on the GitLab.
 
-21. Find Pastebin Entries:
+21. Find Pastebin Entries: Shows you the results related to the target organisation on the Pastebin site. This could be passwords or any other sensitive information related to the target organisation. 
 
-22. Employees on LINKEDIN:
+22. Employees on LINKEDIN: Identifying employee names on LinkedIn can help you build a username list when it comes to password spraying attack.
 
-23. .HTACCESS / Sensitive Files:
+23. .HTACCESS / Sensitive Files: Look for sensitive file exposure.
 
-24. Find Subdomains:
+24. Find Subdomains: Subdomain helps you expand the attack surface on the target organisation. There are numerous tools available to automate the process of subdomain enumeration. 
 
-25: Find Sub-Subdomains:
+25: Find Sub-Subdomains: Identify sub-sub domains on the target organisation using Google Dork,
 
-26: Find WordPress related expsoure:
+26: Find WordPress related exposure: WordPress related exposure helps you gain access to sensitive files and folders.
 
-27: BitBucket & Atlassian:
+27: BitBucket & Atlassian: Source code leakage, hardcoded credentials and access to cloud infrastructure. 
 
-28: PassiveTotal:
+28: PassiveTotal: PassiveTotal is a great tool to perform threat investigation. Using BigBountyRecon we will use PassiveTotal to identify subdomains on the target information.
 
-29: Stackoverflow:
+29: Stackoverflow: 
 
 30: Find WordPress related expsore using Wayback Machine:
 
