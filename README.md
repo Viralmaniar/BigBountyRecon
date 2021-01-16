@@ -83,45 +83,48 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 38. Digitalocean Spaces: Spaces is an S3-compatible object storage service that lets you store and serve large amounts of data. We will look for any data exposures.
 
-39. .SWF File (Google): Flash is dead. We are going to use Google Dorks to look for older versions of flash .swf's which contain vulnerabiltiies. 
+39. .SWF File (Google): Flash is dead. We are going to use Google Dorks to look for older versions of flash .swf's which contain vulnerabilities. 
 
-40. .SWF File (Yandex): Flash is dead. We are going to use Yandex to look for older versions of flash .swf's which contain vulnerabiltiies. 
+40. .SWF File (Yandex): Flash is dead. We are going to use Yandex to look for older versions of flash .swf's which contain vulnerabilities. 
 
-41. .SWF File (Wayback Machine): Flash is dead. We are going to use WaybackMachine to look for older versions of flash .swf's which contain vulnerabiltiies. 
+41. .SWF File (Wayback Machine): Flash is dead. We are going to use WaybackMachine to look for older versions of flash .swf's which contain vulnerabilities. 
 
-42. WayBack Machine: Look for archieved files to access old files.
+42. Wayback Machine: Look for archived files to access old files.
 
-43. Reverse IP Lookup: Reverse IP Lookup lets you discover all the domain names hosted on any given IP address. This will help you to explore the attack suraface for a target organisation. 
+43. Reverse IP Lookup: Reverse IP Lookup lets you discover all the domain names hosted on any given IP address. This will help you to explore the attack surface for a target organisation. 
 
-44. Traefik: Look for an open-source Edge Router for an unauthenticated interfaces which exposes internal services.
+44. Traefik: Look for an open-source Edge Router for an unauthenticated interface which exposes internal services.
 
 45. Cloud Storage and Buckets: Google CSE for various cloud storages - aws, digitalocean, backblaze, wasabi, rackspace, dropbox, ibm, azure, dreamhost, linode, gcp, box, mailru
 
 46. s3 Buckets: Open s3 buckets.
 
-47. PublicWWW: 
+47. PublicWWW: Source code search engine indexes the content of over 200 million web sites and provides a query interface that lets the caller find any alphanumeric snippet, signature or keyword in the web pages ‘HTML’, ‘JavaScript’ and ‘CSS’ style sheet code.
 
-48. Censys (IPv4, Domains & Certs):
+48. Censys (IPv4, Domains & Certs): Search engine for finding internet devices. We will use this to look for additional sub-domains using various endpoints on Censys.
 
-49. Shodan:
+49. Shodan: Search engine for Internet-connected devices
 
-50. SharePoint RCE: 
+50. SharePoint RCE: Look for CVE-2020-0646 SharePoint RCE related endpoint.
 
 51. API Endpoints: Find WSDL files. 
 
 52. Gist Searches: Quickly look for sensitive information on the Gist pastes.
 
-53. CT Logs: Certificate Transparency (CT) is an Internet security standard and open source framework for monitoring and auditing digital certificates. We will use to look for additional sub-domains for a targated organisation.
+53. CT Logs: Certificate Transparency (CT) is an Internet security standard and open-source framework for monitoring and auditing digital certificates. We will use to look for additional sub-domains for a targeted organisation.
 
 54. Password Leak: Look for plaintext passwords of internal employees exposed in various leaks.
 
-55. What CMS: Identify the version and type of CMS used by a target organisation for targated enumeration and exploit research.
+55. What CMS: Identify the version and type of CMS used by a target organisation for targeted enumeration and exploit research.
 
 # Screenshots
 
 
 # How to use this tool?
 
+Step1: Download the file from 
+
+Step2: Run the 
 
 # Dorking operators across Google, DuckDuckGo, Yahoo and Bing
 
