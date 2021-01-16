@@ -65,7 +65,7 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 29. Stackoverflow: Source code exposure or any technology-specific questions mentioned on the Stackoverflow.
 
-30. Find WordPress related exposure using Wayback Machine: 
+30. Find WordPress related exposure using Wayback Machine: Look for archieved WordPress files using WaybackMachine.
 
 31. GitHub: Quickly look for sensitive information on the GitHub.
 
@@ -95,11 +95,11 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 44. Traefik: Look for an open-source Edge Router for an unauthenticated interfaces which exposes internal services.
 
-45. Cloud Storage and Buckets: 
+45. Cloud Storage and Buckets: Google CSE for various cloud storages - aws, digitalocean, backblaze, wasabi, rackspace, dropbox, ibm, azure, dreamhost, linode, gcp, box, mailru
 
-46. s3 Buckets:
+46. s3 Buckets: Open s3 buckets.
 
-47. PublicWWW:
+47. PublicWWW: 
 
 48. Censys (IPv4, Domains & Certs):
 
@@ -119,10 +119,13 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 # Screenshots
 
+
 # How to use this tool?
 
 
 # Dorking operators across Google, DuckDuckGo, Yahoo and Bing
+
+Data obtained from: 
 
 Here is a table with possible dorks for various search engines.
 
