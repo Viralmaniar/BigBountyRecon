@@ -15,19 +15,19 @@ BigBountyRecon tool utilises 58 different techniques using various Google dorks 
 
 5. Log Files: Log files sometimes provide detailed information of the users' activities in a particular application. These files are good to look at session cookies or other types of tokens.
 
-6. Backup and Old Files:
+6. Backup and Old Files: Backup files are original copies of the critical systems. These provide access to PII or access to sensitive records.
 
 7. Login Pages: It is extremely important to identify login pages of your target organisation to perform bruteforce attempts or trying default credentials to gain further access to organisation resources. 
 
-8. SQL Errors:
+8. SQL Errors: SQL errors leaks sensitive information about the backend systems. This can help one to perform enumeration on the database types and see if the application is vulnerable to input validation related attacks such as SQL Injection.
 
-9. Apache Config Files:
+9. Apache Config Files: Apache HTTP Server is configured by placing directives in plain text configuration files. The main configuration file is usually called httpd.conf. In addition, other configuration files may be added using the Include directive, and wildcards can be used to include many configuration files. Any directive may be placed in any of these configuration files. Depending on the entries in these config files it may reveal database connection strings, username and passwords, the internal workings, used and referenced libraries and business logic of application.
 
-10. Robots.txt File:
+10. Robots.txt File: Robots.txt file instructs web robots how to crawl pages on their website. Depending on the content of the file, an attacker might discover hidden directories and files.
 
-11. DomainEye:
+11. DomainEye: DomainEye is a domain/host investigation tool that has the largest domain databases. They provide services such as reverse Whois, reverse IP lookup, as well as reverse NS and MX.
 
-12. Publicly Exposed Documents:
+12. Publicly Exposed Documents: 
 
 13. phpinfo():
 
