@@ -51,37 +51,37 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 22. Employees on LINKEDIN: Identifying employee names on LinkedIn can help you build a username list when it comes to password spraying attack.
 
-23. .HTACCESS / Sensitive Files: Look for sensitive file exposure.
+23. .HTACCESS / Sensitive Files: Look for sensitive file exposure. This may indicate a server misconfiguration.
 
 24. Find Subdomains: Subdomain helps you expand the attack surface on the target organisation. There are numerous tools available to automate the process of subdomain enumeration. 
 
-25: Find Sub-Subdomains: Identify sub-sub domains on the target organisation using Google Dork,
+25. Find Sub-Subdomains: Identify sub-sub domains on the target organisation using Google Dork,
 
-26: Find WordPress related exposure: WordPress related exposure helps you gain access to sensitive files and folders.
+26. Find WordPress related exposure: WordPress related exposure helps you gain access to sensitive files and folders.
 
-27: BitBucket & Atlassian: Source code leakage, hardcoded credentials and access to cloud infrastructure. 
+27. BitBucket & Atlassian: Source code leakage, hardcoded credentials and access to cloud infrastructure. 
 
-28: PassiveTotal: PassiveTotal is a great tool to perform threat investigation. Using BigBountyRecon we will use PassiveTotal to identify subdomains on the target information.
+28. PassiveTotal: PassiveTotal is a great tool to perform threat investigation. Using BigBountyRecon we will use PassiveTotal to identify subdomains on the target information.
 
-29: Stackoverflow: 
+29. Stackoverflow: Source code exposure or any technology-specific questions mentioned on the Stackoverflow.
 
-30: Find WordPress related expsore using Wayback Machine:
+30. Find WordPress related exposure using Wayback Machine: 
 
-31: GitHub:
+31. GitHub: Quickly look for sensitive information on the GitHub.
 
-32: OpenBugBounty:
+32. OpenBugBounty: Look for publicly exposed security issues on the OpenBugBounty website.
 
-33. Reddit:
+33. Reddit: Information about the particular organisation on the Reddit platform.
 
-34. CrossDomain.xml:
+34. Crossdomain.xml: Look for misconfigured crossdomain.xml files on the target organisation. 
 
-35. ThreatCrowd:
+35. ThreatCrowd: Search engine for threats, however, we are going to use this to identify additional sub-domains.
 
-36. .git Folder:
+36. .git Folder: Source code exposure. it's possible to download the entire repository content if accessible.
 
-37. YouTube:
+37. YouTube: Look for any recent news on Youtube.
 
-38. Digital Ocean Spaces:
+38. Digital Ocean Spaces: 
 
 39. .SWF File (Google):
 
