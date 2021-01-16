@@ -81,21 +81,21 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 37. YouTube: Look for any recent news on Youtube.
 
-38. Digital Ocean Spaces: 
+38. Digitalocean Spaces: Spaces is an S3-compatible object storage service that lets you store and serve large amounts of data. We will look for any data exposures.
 
-39. .SWF File (Google):
+39. .SWF File (Google): Flash is dead. We are going to use Google Dorks to look for older versions of flash .swf's which contain vulnerabiltiies. 
 
-40. .SWF File (Yandex):
+40. .SWF File (Yandex): Flash is dead. We are going to use Yandex to look for older versions of flash .swf's which contain vulnerabiltiies. 
 
-41. .SWF File (Wayback Machine):
+41. .SWF File (Wayback Machine): Flash is dead. We are going to use WaybackMachine to look for older versions of flash .swf's which contain vulnerabiltiies. 
 
-42. WayBack Machine:
+42. WayBack Machine: Look for archieved files to access old files.
 
-43. Reverse IP Lookup:
+43. Reverse IP Lookup: Reverse IP Lookup lets you discover all the domain names hosted on any given IP address. This will help you to explore the attack suraface for a target organisation. 
 
-44. Traefik:
+44. Traefik: Look for an open-source Edge Router for an unauthenticated interfaces which exposes internal services.
 
-45. Cloud Storage and Buckets:
+45. Cloud Storage and Buckets: 
 
 46. s3 Buckets:
 
@@ -107,15 +107,15 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 50. SharePoint RCE: 
 
-51. API Endpoints:
+51. API Endpoints: Find WSDL files. 
 
-52. Gist Searches:
+52. Gist Searches: Quickly look for sensitive information on the Gist pastes.
 
-53. CT Logs:
+53. CT Logs: Certificate Transparency (CT) is an Internet security standard and open source framework for monitoring and auditing digital certificates. We will use to look for additional sub-domains for a targated organisation.
 
-54. Password Leak:
+54. Password Leak: Look for plaintext passwords of internal employees exposed in various leaks.
 
-55. What CMS:
+55. What CMS: Identify the version and type of CMS used by a target organisation for targated enumeration and exploit research.
 
 # Screenshots
 
