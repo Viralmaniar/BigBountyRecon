@@ -31,17 +31,17 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 12. Publicly Exposed Documents: Such documents can be used to extract metadata information. 
 
-13. phpinfo(): Exposing phpinfo() on its own isn't necessarily a risk, but in combination with other vulnerabilities could lead to your site becoming compromised. Additionaly, module versions could make attackers life easier when targeting application using newly discovered exploits.
+13. phpinfo(): Exposing phpinfo() on its own isn't necessarily a risk, but in combination with other vulnerabilities could lead to your site becoming compromised. Additionally, module versions could make attackers life easier when targeting application using newly discovered exploits.
 
-14. Finding Backdoors: This can help one to identify website defacements or server hijacking related issues.
+14. Finding Backdoors: This can help one to identify website defacements or server hijacking related issues. By exploiting the open redirect vulnerability on the trusted web application, the attacker can redirect victims to a phishing page.
 
-15. Install/Setup Files: 
+15. Install/Setup Files: Such files allows an attacker to perform enumeration on the target organisation. Information gathered using these files can help discover version details which can then be used to perform the targeted exploit.
 
-16. Open Redirects:
+16. Open Redirects: With these, we look at various known parameters vulnerable to open redirect related issues. 
 
-17. Apache Struts RCE:
+17. Apache Struts RCE: Successfully exploiting an RCE vulnerability could allow the attacker to run arbitrary programs. Here, we are looking for files with extensions of ".action" or ".do".
 
-18. 3rd Party Exposure:
+18. 3rd Party Exposure: 
 
 19. Check Security Headers:
 
