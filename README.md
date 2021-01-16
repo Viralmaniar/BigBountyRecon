@@ -29,13 +29,13 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 11. DomainEye: DomainEye is a domain/host investigation tool that has the largest domain databases. They provide services such as reverse Whois, reverse IP lookup, as well as reverse NS and MX.
 
-12. Publicly Exposed Documents: 
+12. Publicly Exposed Documents: Such documents can be used to extract metadata information. 
 
-13. phpinfo():
+13. phpinfo(): Exposing phpinfo() on its own isn't necessarily a risk, but in combination with other vulnerabilities could lead to your site becoming compromised. Additionaly, module versions could make attackers life easier when targeting application using newly discovered exploits.
 
-14. Finding Backdoors:
+14. Finding Backdoors: This can help one to identify website defacements or server hijacking related issues.
 
-15. Install/Setup Files:
+15. Install/Setup Files: 
 
 16. Open Redirects:
 
