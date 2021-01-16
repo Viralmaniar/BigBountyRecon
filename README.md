@@ -1,5 +1,5 @@
 # BigBountyRecon
-BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expediate the process of initial reconnaissance on the target organisation. Reconnaissance is the most important step in any penetration testing or a bug hunting process. It provides an attacker some priliminary knowledge on a target organisation. Furthermore, it will be useful to gain insights into controls in place as well as security matuarity of a target organisation. Looking into this low hanging fruits you will have some estimations on the security capabilities on your target organisation.
+BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expediate the process of initial reconnaissance on the target organisation. Reconnaissance is the most important step in any penetration testing or a bug hunting process. It provides an attacker some priliminary knowledge on the target organisation. Furthermore, it will be useful to gain insights into what controls are in place as well as some rough estimations on security matuarity level of the target organisation. 
 
 ![image](https://user-images.githubusercontent.com/3501170/104112108-d9145c00-533e-11eb-85be-cb1d33fc9362.png)
 
@@ -9,11 +9,11 @@ BigBountyRecon tool utilises 58 different techniques using various Google dorks 
 
 2. Configuration Files: Often times configuration files contains sensitive information such as hardcoded passwords, sensitive drive locations or API tokens which can help you gain privilege access to the internal resources.
 
-3. Database Files: 
+3. Database Files: Database Files are data files that are used to store the contents of the database in a structured format into a file in separate tables and fields. Depending on the nature of the web application these files could provide access to sensitive information.
 
 4. WordPress: WordPress is an open source CMS written in PHP. WordPess has thousands of plugins to build, customise and enhance the websites. There are numerous vulnerabilities in these plugins. Finding WordPress related 
 
-5. Log Files:
+5. Log Files: 
 
 6. Backup and Old Files:
 
