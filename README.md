@@ -17,7 +17,7 @@ BigBountyRecon tool utilises 58 different techniques using various Google dorks 
 
 6. Backup and Old Files:
 
-7. Login Pages:
+7. Login Pages: It is extremely important to identify login pages of your target organisation to perform bruteforce attempts or trying default credentials to gain further access to organisation resources. 
 
 8. SQL Errors:
 
