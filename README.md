@@ -152,7 +152,7 @@ Step5: In case of Google Captcha simply click on the puzzle and move ahead
 
 # Questions?
 
-Twitter: https://twitter.com/maniarviral
+Twitter: https://twitter.com/maniarviral <br>
 LinkedIn: https://au.linkedin.com/in/viralmaniar
 
 # Dorking operators across Google, DuckDuckGo, Yahoo and Bing
