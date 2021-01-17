@@ -3,6 +3,8 @@ BigBountyRecon tool utilises 58 different techniques using various Google dorks 
 
 This tool can be used in addition to your usual approach for bug hunting. The idea is to quickly check and gather information about your target organisation without investing time and remembering these syntaxes. In addition, it can help you define an approach towards finding some quick wins on the target.
 
+Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
+
 ![image](https://user-images.githubusercontent.com/3501170/104112108-d9145c00-533e-11eb-85be-cb1d33fc9362.png)
 
 # Techniques
@@ -141,6 +143,11 @@ Verifying if the URL contains extenstion of ".do":
 Step1: Download the file from 
 
 Step2: Run the 
+
+# Questions?
+
+Twitter: https://twitter.com/maniarviral
+LinkedIn: https://au.linkedin.com/in/viralmaniar
 
 # Dorking operators across Google, DuckDuckGo, Yahoo and Bing
 
