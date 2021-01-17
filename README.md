@@ -119,6 +119,22 @@ This tool can be used in addition to your usual approach for bug hunting. The id
 
 # Screenshots
 
+Search for plaintext passwords for a target organisation:
+
+![image](https://user-images.githubusercontent.com/3501170/104828972-f909c980-58c2-11eb-8a6e-1fff243abd2d.png)
+
+Looking for subdomains and other interesting information on the target organisation:
+
+![image](https://user-images.githubusercontent.com/3501170/104829008-83eac400-58c3-11eb-9620-37f728b30fea.png)
+
+Finding Apache Struts related assets:
+
+![image](https://user-images.githubusercontent.com/3501170/104829022-ac72be00-58c3-11eb-8dc6-5d9a68f07ec5.png)
+
+Verifying if the URL contains extenstion of ".do":
+
+![image](https://user-images.githubusercontent.com/3501170/104829033-cd3b1380-58c3-11eb-84e8-17b331a3d45f.png)
+
 
 # How to use this tool?
 
@@ -131,6 +147,10 @@ Step2: Run the
 Data obtained from: 
 
 Here is a table with possible dorks for various search engines.
+
+
+
+
 
 | Dork                                                        	| Description                                                                                                                                                                                                                                                 	| Google 	| DuckDuckGo 	| Yahoo 	| Bing 	|
 |-------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------	|------------	|-------	|------	|
