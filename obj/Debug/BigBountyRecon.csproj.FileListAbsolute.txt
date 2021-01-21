@@ -1,0 +1,8 @@
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\bin\Debug\BigBountyRecon.exe.config
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\bin\Debug\BigBountyRecon.exe
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\bin\Debug\BigBountyRecon.pdb
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\obj\Debug\BigBountyRecon.Form1.resources
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\obj\Debug\BigBountyRecon.Properties.Resources.resources
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\obj\Debug\BigBountyRecon.csproj.GenerateResource.cache
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\obj\Debug\BigBountyRecon.exe
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\obj\Debug\BigBountyRecon.pdb

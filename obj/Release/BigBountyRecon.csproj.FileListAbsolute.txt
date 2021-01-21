@@ -1,0 +1,9 @@
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\bin\Release\BigBountyRecon.exe.config
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\bin\Release\BigBountyRecon.exe
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\bin\Release\BigBountyRecon.pdb
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\obj\Release\BigBountyRecon.Form1.resources
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\obj\Release\BigBountyRecon.Properties.Resources.resources
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\obj\Release\BigBountyRecon.csproj.GenerateResource.cache
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\obj\Release\BigBountyRecon.exe
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\obj\Release\BigBountyRecon.pdb
+C:\Users\VM\Documents\Work\BigBountyRecon\BigBountyRecon\obj\Release\BigBountyRecon.csprojAssemblyReference.cache
