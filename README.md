@@ -7,6 +7,9 @@ Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarVi
 
 ![image](https://user-images.githubusercontent.com/3501170/104112108-d9145c00-533e-11eb-85be-cb1d33fc9362.png)
 
+# ANYRUN:
+- https://app.any.run/tasks/b31a5e6a-7ead-470e-b5e8-02fffd55f255/
+
 # Techniques
 
 1. Directory Listing: Finding open directories using Google Dork on your target organisation helps one to understand the directory structure on the webserver. It may reveal sensitive information or it may lead to information disclosure.
